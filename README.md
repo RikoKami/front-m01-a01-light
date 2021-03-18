@@ -5,6 +5,9 @@
 1. Sua apresentação
 2. Corrija o HTML
 
+## Exercícios extra 🌟 (não obrigatório/conteúdo ainda não visto)
+3. Replicar página
+
 Preencha a checklist para finalizar o exercício:
 
 - [ ] Executar `git clone https://github.com/cubos-academy/front-m01-a01-light.git` no terminal para clonar o repositório, ou clonar de outra maneira

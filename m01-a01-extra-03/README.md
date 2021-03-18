@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-## Exercício extra 🌟
+## Exercício extra 🌟 (não obrigatório/conteúdo ainda não visto)
 
 ### Replicar página
 
